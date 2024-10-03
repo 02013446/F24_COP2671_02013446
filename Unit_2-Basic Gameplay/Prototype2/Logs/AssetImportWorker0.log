@@ -6906,3 +6906,5 @@ Start importing Assets/Prefabs/Animal_Chicken_White.prefab using Guid(411ceefa86
  -> (artifact id: 'e02f5d5e5050a05befa5040bd0de35d5') in 0.000812 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 0
+TcpMessagingSession - receive error
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
